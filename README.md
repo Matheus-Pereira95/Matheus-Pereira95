@@ -1,21 +1,22 @@
 <h1> Hey There! 🖖🖖 </h1>
-  
-  🌱 I’m currently learning Javascript
-  
-<div style="display:inline-block">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
- 
 
+ <p><strong> About me </strong><p>
+ <p> 💻 I’m currently working as a support agent </p>
+ <p> 🌱 I’m currently learning Javascript</p>
   
+<hr>
+  
+<h3> Languages </h3>
+<div style="display:inline-block">
+  <img style="margin-left:100em" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img style="margin-left:50em" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img style="margin-left:50em" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 </div>
 
-<br>
+<hr>
   
-  
-  
-  
+ <h3> Stats </h3> 
+ 
 <div>
   <a href="https://github.com/Matheus-Pereira95">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Pereira95&show_icons=true&theme=dark"/>
