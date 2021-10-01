@@ -2,8 +2,20 @@
 
  <p><strong> About me </strong><p>
  <p> 💻 I’m currently working as a support agent </p>
- <p> 🌱 I’m currently learning Javascript</p>
-  
+ <p> 🌱 I’m currently learning Javascript</p> 
+
+<hr>
+   <h3> Social Media </h3>
+   
+   <a href="https://www.facebook.com/matheus.brasil.391" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
+   <a href="https://www.instagram.com/matheus_brasil95/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+   <a href="https://www.linkedin.com/in/matheusbrasil95/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+   <a href="mailto:brasil.m.95@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+ 
+   
+   
+   
+   
 <hr>
   
 <h3> Languages </h3>
