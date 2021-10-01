@@ -35,6 +35,14 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Pereira95&layout=compact)](https://github.com/Matheus-Pereira95/github-readme-stats">
 
 </div>
+ 
+ <hr>
+  
+ <h4 align="center"> Visitas ao meu perfil: 🕵️ </h4>
+  
+  <p align="center">
+   <img alingn="center" src="https://profile-counter.glitch.me/Matheus-Pereira95/count.svg" />
+ </p>
 
 <!--
 **Matheus-Pereira95/Matheus-Pereira95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
