@@ -20,14 +20,16 @@
      <img style="margin-left:100em" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
      <img style="margin-left:50em" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
      <img style="margin-left:50em" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+     <img style="margin-left:100em" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
    </div>
 
 <hr>
 
 <h3> Tools </h3>
-   <div>
-     <img style="margin-left:100em" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
-     <img style="margin-left:300em" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+   <div style="display:inline-block">
+     <img style="margin-left:100em" height="50" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" />
+     <img style="margin-left:100em" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
    </div>
 <hr>
   
